@@ -19,7 +19,7 @@ body { font-family: "Verdana";
 
   div {
     max-width: 85%;
-    border: solid 5px powderblue;
+    border: solid 5px gray;
     padding: 10px;
     }
 /* padding is the inside the border spacing */
